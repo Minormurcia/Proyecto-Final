@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5774996C-F0EF-4E56-9B22-7DF45A11E99D}|XperTek_ACME\\XperTek_ACME.csproj|c:\\users\\pc\\onedrive - universidad polit\u00E9cnica internacional\\proyecto final progra 2\\proyecto_final_minor_murcia\\xpertek_acme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5774996C-F0EF-4E56-9B22-7DF45A11E99D}|XperTek_ACME\\XperTek_ACME.csproj|solutionrelative:xpertek_acme\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B2A5771-3483-422C-8097-4ABCC244A3EC}|Services\\Services.csproj|c:\\users\\pc\\onedrive - universidad polit\u00E9cnica internacional\\proyecto final progra 2\\proyecto_final_minor_murcia\\services\\acme\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3B2A5771-3483-422C-8097-4ABCC244A3EC}|Services\\Services.csproj|solutionrelative:services\\acme\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2825B1-D492-48B5-97CF-892F549BF39A}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\onedrive - universidad polit\u00E9cnica internacional\\proyecto final progra 2\\proyecto_final_minor_murcia\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3C2825B1-D492-48B5-97CF-892F549BF39A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3C2825B1-D492-48B5-97CF-892F549BF39A}|DataAccess\\DataAccess.csproj|c:\\users\\pc\\onedrive - universidad polit\u00E9cnica internacional\\proyecto final progra 2\\proyecto_final_minor_murcia\\dataaccess\\acme\\empresada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3C2825B1-D492-48B5-97CF-892F549BF39A}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\acme\\empresada.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{22B0FEA0-5AC5-4414-B8C1-78A5DCB4D295}|Models\\Models.csproj|c:\\users\\pc\\onedrive - universidad polit\u00E9cnica internacional\\proyecto final progra 2\\proyecto_final_minor_murcia\\models\\acme\\empresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{22B0FEA0-5AC5-4414-B8C1-78A5DCB4D295}|Models\\Models.csproj|solutionrelative:models\\acme\\empresaentidad.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 336,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\XperTek_ACME\\Program.cs",
+              "RelativeDocumentMoniker": "XperTek_ACME\\Program.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\XperTek_ACME\\Program.cs",
+              "RelativeToolTip": "XperTek_ACME\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAgwBoAAABRAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-20T01:29:31.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpresaService.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\Services\\ACME\\EmpresaService.cs",
+              "RelativeDocumentMoniker": "Services\\ACME\\EmpresaService.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\Services\\ACME\\EmpresaService.cs",
+              "RelativeToolTip": "Services\\ACME\\EmpresaService.cs",
+              "ViewState": "AQIAAB0AAAAAAAAAAAAmwGEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T20:19:20.677Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-04-19T18:00:04.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpresaDA.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\DataAccess\\ACME\\EmpresaDA.cs",
+              "RelativeDocumentMoniker": "DataAccess\\ACME\\EmpresaDA.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\DataAccess\\ACME\\EmpresaDA.cs",
+              "RelativeToolTip": "DataAccess\\ACME\\EmpresaDA.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAGAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T17:57:38.27Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmpresaEntidad.cs",
+              "DocumentMoniker": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\Models\\ACME\\EmpresaEntidad.cs",
+              "RelativeDocumentMoniker": "Models\\ACME\\EmpresaEntidad.cs",
+              "ToolTip": "C:\\Users\\pc\\OneDrive - Universidad Polit\u00E9cnica Internacional\\Proyecto Final progra 2\\Proyecto_Final_Minor_Murcia\\Models\\ACME\\EmpresaEntidad.cs",
+              "RelativeToolTip": "Models\\ACME\\EmpresaEntidad.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABIAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-19T15:50:27.718Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 64,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

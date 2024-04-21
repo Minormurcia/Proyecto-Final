@@ -1,0 +1,9 @@
+Server=9108_951983\SQLEXPRESS
+User Id=sa
+Password=123456
+Initial Catalog=ACME
+
+Server=9108_951983\SQLEXPRESS;User Id=sa;Password=123456;Initial Catalog=ACME;TrustServerCertificate=true;
+
+Variable de entorno de Windows
+SQLServerXE
